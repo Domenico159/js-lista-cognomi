@@ -8,6 +8,13 @@
 
 body{
     font-family: sans-serif;
+    background-color: rgb(192, 135, 245);
+}
+
+h1,
+h2,
+h3{
+    color: #fff;
 }
 
 /* Header */
@@ -39,4 +46,5 @@ main ul li{
     max-width: 300px;
     background-color: aqua;
     padding: 15px;
+    color: rgb(69, 2, 114);
 }
