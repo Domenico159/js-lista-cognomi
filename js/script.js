@@ -29,4 +29,4 @@ document.getElementById('cognomi').innerHTML = items;
 
 // console.log(cognomi.sort());
 
-document.getElementById('cognomeUser').innerHTML = 'Il tuo cognome si trova alla posizione numero: ' + (cognomi.indexOf(cognomeUser)+ 1);
+document.getElementById('cognomeUser').innerHTML = 'Il tuo cognome si trova alla posizione numero: ' + (cognomi.indexOf(cognomeUser)+ 1) + '°';
