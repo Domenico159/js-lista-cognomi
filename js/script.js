@@ -21,7 +21,7 @@ if(isNaN(cognomeUser)){
 
 for(var i = 0 ; i < cognomi.length;i++){
 
-    items += '<li>' + cognomi.sort()[i] + '</li>';
+    items += '<li>' + cognomi.sort()[i] + '<h3>'+ ((i)+1)+ '°' +'</h3>' + '</li>';
     // console.log(items);
 }
 

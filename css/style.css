@@ -12,10 +12,15 @@ body{
 }
 
 h1,
-h2,
-h3{
+h2{
     color: #fff;
     text-shadow:0 -5px 5px rgba(0, 0, 0, 0.2) ;
+}
+
+h3{
+    color: rgb(69, 2, 114);
+    text-shadow:0 -1px 5px rgba(0, 0, 0, 0.2) ;
+    margin-top: 5px;
 }
 
 /* Header */
