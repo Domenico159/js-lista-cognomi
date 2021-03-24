@@ -1,0 +1,42 @@
+/* General */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+/* Header */
+header{
+    text-align: center;
+}
+
+
+/* Main */
+main{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+
+main h2{
+    margin-top: 150px;
+}
+
+main ul{
+    list-style: none;
+    margin-left: 150px;
+}
+
+main ul li{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-width:150px;
+    max-width: 300px;
+    background-color: aqua;
+    padding: 15px;
+}
